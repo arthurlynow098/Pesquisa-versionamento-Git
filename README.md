@@ -1,3 +1,28 @@
-# Versionamento, comandos e Git
+<p align="center"><img src="https://raw.githubusercontent.com/arthurlynow098/arthurlynow098/main/assets/ars-codex-banner.png" alt="Arthur Mendes Entsev — gravura alquímica minimalista" width="100%"></p>
 
-Repositório feito para guardar arquivos essênciais para a apresentação do nosso tema de Versionamento Git
+<p align="center"><sub>☉ &nbsp; ARS CODEX &nbsp; · &nbsp; Pesquisa-versionamento-Git &nbsp; ☽</sub></p>
+
+---
+
+# Pesquisa-versionamento-Git
+
+## Sobre o projeto
+
+Material de apresentação sobre versionamento com Git. Reúne um PDF de pesquisa e um projeto web com exemplos e comandos.
+
+## Como explorar
+
+Leia `Pesquisa-Git-Fluxo-Local.pdf` e consulte o README da pasta `projeto-web` para explorar a apresentação.
+
+## Mapa do repositório
+
+- [Pesquisa-Git-Fluxo-Local.pdf](Pesquisa-Git-Fluxo-Local.pdf)
+- [projeto-web](projeto-web) — diretório
+
+## Desenvolvimento
+
+As instruções acima descrevem os arquivos disponíveis. A execução da aplicação não foi validada nesta revisão de documentação.
+
+---
+
+<p align="center"><sub>☿ &nbsp; Estudo · construção · evolução &nbsp; ☿</sub><br><a href="https://github.com/arthurlynow098">Perfil</a> · <a href="https://arthurentsev.vercel.app/">Portfólio</a></p>
