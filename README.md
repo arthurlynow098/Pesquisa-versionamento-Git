@@ -4,21 +4,33 @@
 
 <p align="center">Pesquisa e laboratório prático sobre commits, branches e fluxo local de versionamento.</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-C52E36?style=flat-square" alt="Git">
-  <img src="https://img.shields.io/badge/Versionamento-24272E?style=flat-square" alt="Versionamento">
-  <img src="https://img.shields.io/badge/CLI-24272E?style=flat-square" alt="CLI">
-</p>
+<p align="center"><img src="assets/docs/tags.svg" alt="Git · Versionamento · CLI" width="72%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-explorar">Como explorar</a></p>
 
 ---
 
-## Visão geral
+<a id="explore-o-projeto"></a>
+
+![Explore o projeto](assets/docs/section-01.svg)
+
+![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
+
+| Área | O que você encontra | Acesso direto |
+|---|---|---|
+| **Pesquisa** | Material de referência em PDF. | [Abrir pesquisa →](Pesquisa-Git-Fluxo-Local.pdf) |
+| **Comandos** | Folha de consulta dos comandos Git. | [Abrir comandos →](projeto-web/comandos.txt) |
+| **Exemplo** | Página usada no laboratório de versionamento. | [Abrir exemplo →](projeto-web/index.html) |
+
+<a id="visão-geral"></a>
+
+![Visão geral](assets/docs/section-02.svg)
 
 O diretório projeto-web/ simula a estrutura real de uma aplicação front-end — incluindo código-fonte (index.html, style.css, app.js), arquivos de log (logs/app.log), dependências simuladas (node_modules/) e uma folha de referência rápida de comandos (comandos.txt).
 
-## Recursos
+<a id="recursos"></a>
+
+![Recursos](assets/docs/section-03.svg)
 
 | Recurso | Como funciona |
 |---|---|
@@ -46,7 +58,7 @@ flowchart LR
 ```text
 Pesquisa-versionamento-Git/
 ├── assets/
-│   └── project-animal.png          Emblema do projeto
+│   └── banner-v2.png               Banner do projeto
 ├── projeto-web/
 │   ├── assets/                         style.css e app.js da aplicação demonstrativa
 │   ├── logs/app.log                    Exemplo de arquivo de log para teste de .gitignore
@@ -60,7 +72,9 @@ Pesquisa-versionamento-Git/
 
 </details>
 
-## Como explorar
+<a id="como-explorar"></a>
+
+![Como explorar](assets/docs/section-04.svg)
 
 1. Clone o repositório:
    ```bash
