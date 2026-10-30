@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/project-animal.png" alt="Emblema de Pesquisa-versionamento-Git" width="144" height="144">
+  <img src="assets/banner-v2.png" alt="Pesquisa-versionamento-Git" width="100%">
 </p>
-
-<h1 align="center">Pesquisa-versionamento-Git</h1>
 
 <p align="center">Pesquisa e laboratório prático sobre commits, branches e fluxo local de versionamento.</p>
 
