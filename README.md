@@ -4,7 +4,7 @@
 
 <p align="center">Pesquisa e laboratório prático sobre commits, branches e fluxo local de versionamento.</p>
 
-<p align="center"><img src="assets/docs/tags.svg" alt="Git · Versionamento · CLI" width="72%"></p>
+<p align="center"><img src="assets/docs/tags.svg" alt="Git · Versionamento · CLI" width="100%"></p>
 
 <p align="center"><a href="#visão-geral">Visão geral</a> &nbsp;·&nbsp; <a href="#recursos">Recursos</a> &nbsp;·&nbsp; <a href="#como-explorar">Como explorar</a></p>
 
@@ -16,11 +16,12 @@
 
 ![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
 
-| Área | O que você encontra | Acesso direto |
-|---|---|---|
-| **Pesquisa** | Material de referência em PDF. | [Abrir pesquisa →](Pesquisa-Git-Fluxo-Local.pdf) |
-| **Comandos** | Folha de consulta dos comandos Git. | [Abrir comandos →](projeto-web/comandos.txt) |
-| **Exemplo** | Página usada no laboratório de versionamento. | [Abrir exemplo →](projeto-web/index.html) |
+<table width="100%">
+<tr><th align="left">Área</th><th align="left">O que você encontra</th><th align="left">Acesso direto</th></tr>
+<tr><td><strong>Pesquisa</strong></td><td>Material de referência em PDF.</td><td><a href="Pesquisa-Git-Fluxo-Local.pdf">Abrir pesquisa →</a></td></tr>
+<tr><td><strong>Comandos</strong></td><td>Folha de consulta dos comandos Git.</td><td><a href="projeto-web/comandos.txt">Abrir comandos →</a></td></tr>
+<tr><td><strong>Exemplo</strong></td><td>Página usada no laboratório de versionamento.</td><td><a href="projeto-web/index.html">Abrir exemplo →</a></td></tr>
+</table>
 
 <a id="visão-geral"></a>
 
